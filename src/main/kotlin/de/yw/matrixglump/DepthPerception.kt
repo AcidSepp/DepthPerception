@@ -7,7 +7,6 @@ import java.io.File
 import javax.imageio.ImageIO
 import kotlin.math.sqrt
 
-
 fun main() {
     val imageWidth = 128
     val imageHeight = 128
