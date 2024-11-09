@@ -1,4 +1,4 @@
-package de.yw.matrixglump
+package de.yw.depthperception
 
 import java.awt.Color
 import java.awt.Graphics2D
